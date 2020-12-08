@@ -12,9 +12,24 @@
 ------1_1.xml # VOC格式页面图像标注1
 ------1_2.xml # VOC格式页面图像标注2
 ```
+统计信息为：
+|类  型|数  量|
+|---|---|
+|发文机关标志|1 347|
+|发文字号|1 344|
+|正文标题|1 359|
+|主送机关|1 065|
+|一级标题|5 184|
+|二级标题|4 697|
+|三级标题|1 415|
+|发文机关|2 073|
+|成文日期|1 178|
+|正    文|10 280|
+|总    计|29 942|
+
 [数据集获取](https://share.weiyun.com/6xOi3akN)
 # GovDoc-CN: A Multi-Modal Dataset of Chinese Governmental Docunments
-The official document data was obtained from the Chinese State Council Policy Document Database, and after automatic typesetting, 1,737 documents were cleaned and annotated, with a total of 6,816 pages.
+The official document data was obtained from the [Chinese State Council Policy Document Database](http://www.gov.cn/zhengce/zhengcewenjianku/index.htm), and after automatic typesetting, 1,737 documents were cleaned and annotated, with a total of 6,816 pages.
 The structure of the dataset directory is like:
 ```
 --GovDoc-CN
@@ -27,4 +42,19 @@ The structure of the dataset directory is like:
 ------1_1.xml # VOC format image annotation 1
 ------1_2.xml # VOC format image annotation 2
 ```
+The data set statistics are：
+|Labels|#Labels|
+|---|---|
+|Sign of document issuing authority|1 347|
+|Document number|1 344|
+|Title|1 359|
+|Addressee|1 065|
+|1st level subtitle|5 184|
+|2nd level subtitle|4 697|
+|3rd level subtitle|1 415|
+|Issuing authority|2 073|
+|Date of writing|1 178|
+|Main text|10 280|
+|Count|29 942|
+
 [Get GovDoc-CN](https://share.weiyun.com/6xOi3akN)
