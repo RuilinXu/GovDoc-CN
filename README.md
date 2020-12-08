@@ -1,5 +1,5 @@
 # GovDoc-CN: 多模态党政机关公文数据集
-从[国务院政策文件库](http://www.gov.cn/zhengce/zhengcewenjianku/index.htm)获取Web公文，自动化排版后，清洗并标注了1 737篇文档，共6 816个页面。
+从[国务院政策文件库](http://www.gov.cn/zhengce/zhengcewenjianku/index.htm)获取Web公文，自动化排版后，清洗并标注了1 371篇文档，共6 816个页面。
 目录结构为：
 ```
 --GovDoc-CN
